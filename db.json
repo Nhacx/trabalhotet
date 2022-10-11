@@ -1,6 +1,6 @@
 {
   "eleitos": [
-    { "ideleito": 1, "nome": "Bolsonaro", "idade": "17", "votos": "presidente", "numero": "17" },
+    { "ideleito": 1, "nome": "Bolsonaro", "idade": "17", "votos": "62.756.426", "numero": "17" },
     { "ideleito": 2, "nome": "Arthur Bernardes", "idade": "47", "votos": "466.877"},
     { "ideleito": 3, "nome": "Lula", "idade": "57", "votos": "52.793.364"},
     { "ideleito": 4, "nome": "Dilma", "idade": "63", "votos": "55.752.529"},
